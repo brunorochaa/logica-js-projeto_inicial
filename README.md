@@ -143,10 +143,10 @@ if (temMaça || temBanana) {
 ```
 
 ### **Outros tipos de operadores lógicos**
-![Outros tipos de operadores lógicos](image.png)
+<table><thead><tr><th>Operador</th><th>Nome</th><th>Exemplo</th><th>Resultado</th></tr></thead><tbody><tr><td>==</td><td>Igual</td><td><strong>A == B</strong></td><td>Verdadeiro se A <strong>for igual</strong> a B</td></tr><tr><td>!=</td><td>Diferente</td><td><strong>A != B</strong></td><td>Verdadeiro se A <strong>não for igual</strong> a B</td></tr><tr><td>&lt;</td><td>Menor que</td><td><strong>A &lt; B</strong></td><td>Verdadeiro se A <strong>for menor que</strong> B</td></tr><tr><td>&gt;</td><td>Maior que</td><td><strong>A &gt; B</strong></td><td>Verdadeiro se A <strong>for maior que</strong> B</td></tr><tr><td>&lt;=</td><td>Menor ou igual</td><td><strong>A &lt;= B</strong></td><td>Verdadeiro se A <strong>for menor ou igual</strong> a B.</td></tr><tr><td>&gt;=</td><td>Maior ou igual</td><td><strong>A &gt;= B</strong></td><td>Verdadeiro se A <strong>for maior ou igual</strong> a B.</td></tr></tbody></table>
 
 ### *Operadores Lógicos*
-![Operadores Lógicos](image-2.png)
+<table><thead><tr><th>Operador</th><th>Nome</th><th>Exemplo</th><th>Resultado</th></tr></thead><tbody><tr><td>&amp;&amp;</td><td>E / AND</td><td>(A &gt; B) <strong>&amp;&amp;</strong> (B == C)</td><td>Verdadeiro se A fo maior que B <em><strong>E</strong></em> B for igual a C</td></tr><tr><td><strong>ǀǀ</strong></td><td>OU / OR</td><td>(A &gt; B) <strong>ǀǀ</strong> (B == C)</td><td>Verdadeiro se A for maior que B <em><strong>OU</strong></em> B for igual a C</td></tr><tr><td>!</td><td>NEGAÇÃO</td><td>!(A == B)</td><td>Verdadeiro se  A <em><strong>NÃO</strong></em> for igual a B</td></tr></tbody></table>
 
 Gostou desse conhecimento e quer mais? A [Rafa Ballerini tem um artigo incrível](https://www.alura.com.br/artigos/operadores-matematicos-em-javascript) falando sobre ```Como utilizar operadores de comparação em Javascript``` que vale a pena a leitura.
 
